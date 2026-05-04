@@ -113,13 +113,6 @@ git clone https://github.com/Desserthe/talk-story ~/.claude/skills/talk-story
 
 下次启动 Claude Code 时，该技能将被自动发现。
 
-**或通过 Claude Scholar 安装**（包含本技能及完整学术研究套件）：
-
-```bash
-git clone https://github.com/Galaxy-Dawn/claude-scholar.git /tmp/claude-scholar
-bash /tmp/claude-scholar/scripts/setup.sh
-```
-
 ---
 
 ## 交棒
