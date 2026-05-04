@@ -2,6 +2,8 @@
 
 A Claude Code skill that turns a vague research idea into a publishable paper design — through Socratic dialogue, not lectures.
 
+English | [中文](./README.zh-CN.md)
+
 ---
 
 ## What It Does
