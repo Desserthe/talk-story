@@ -45,11 +45,6 @@ Trigger naturally — no slash command needed. Just tell Claude you have a resea
 
 > "I have an idea about X, can this become a paper?"  
 > "I want to write about Y, is it publishable?"  
-> "我有个想法，帮我看看能不能做成论文"
-
-Claude will open with:
-
-> 好，把你的想法告诉我——一句话就好。不用完整，不用好听，就是你脑子里现在最原始的那个观察。
 
 Then the conversation begins.
 
